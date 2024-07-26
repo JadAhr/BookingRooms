@@ -2,4 +2,4 @@ This is tailwind css based Project if you want the Project to work for you Perfe
 
 
 
-And for the Contact us Tab you can use gunmailer for it. if your Porject gonna be working with a real clients and you want to use this Project  please change the Paymnet method to another mthod that gonna be secure.
+And for the Contact us Tab you can use https://www.mailgun.com/ for it. if your Porject gonna be working with a real clients and you want to use this Project  please change the Paymnet method to another mthod that gonna be secure.
