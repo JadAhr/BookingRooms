@@ -1,0 +1,37 @@
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+html{
+  -ms-overflow-style: none;  
+  scrollbar-width: none; 
+  scroll-behavior: smooth;
+
+}
+
+.hero {
+  background-image: url('https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
+.card:hover {
+      transform: scale(1.05);
+      transition: transform 0.3s ease-in-out;
+      
+
+}
+.fomr-inputs{
+  font-family: Poppins, sans-serif;
+}
+
